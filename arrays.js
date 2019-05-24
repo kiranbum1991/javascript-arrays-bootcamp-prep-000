@@ -23,3 +23,5 @@ function accessElementInArray (chocolateBars) {
   chocolateBars.length;
   return chocolateBars[2];
 }
+
+function 
