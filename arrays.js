@@ -24,4 +24,4 @@ function accessElementInArray (chocolateBars) {
   return chocolateBars[2];
 }
 
-function destructivelyRemoveElementFromBeginningOfArray 
+function destructivelyRemoveElementFromBeginningOfArray (chocolateBars, candyString) {
