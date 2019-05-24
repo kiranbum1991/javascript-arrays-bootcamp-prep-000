@@ -42,7 +42,3 @@ function removeElementFromEndOfArray (chocolateBars) {
   return chocolateBars.slice(0, chocolateBars.length -1);
 }
 
-var items = [1, 2, 3, 4, 5]
-[...items.slice(0, 2), ...items.slice(3)];
-items();
-
